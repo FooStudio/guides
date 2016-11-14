@@ -6,6 +6,7 @@ Foo()'s programming guide. DRY in style.
 * [Code Review](./code-review)
 * [Style](./style)
 * [How to](./how-to)
+* [Tech we use](./tech)
                                
                                                                     
 High level guidelines:
@@ -16,6 +17,6 @@ High level guidelines:
 A note on language:
 
 * "Avoid" means don't do it unless you have a good reason.
-* "Don't means thee's never a good reason.
+* "Don't means there's never a good reason.
 * "Prefer" indicates a better option and its alternative to watch out for.
 * "Use" is a positive instruction.
