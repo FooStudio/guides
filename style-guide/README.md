@@ -8,13 +8,13 @@ Detailed, language/framework specific style guides:
 * C/C++
 * C#
 * Cinder
-* [Git](./Git)
+* [Git](./git)
 * [HTML](./html)
 * [Javascript](./javascript)
-* [Laravel](./laravel)
+* Laravel
 * Objective-C
 * OpenFrameworks
-* [PHP](./php)
+* PHP
 * [Stylus](./stylus)
 * Swift
 * Unity
