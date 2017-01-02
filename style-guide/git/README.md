@@ -3,12 +3,11 @@
 ## General
 
 * Use [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
-
-> master
-> develop
-> feature/
-> release/
-> hotfix/
+>* master
+>* develop
+>* feature/
+>* release/
+>* hotfix/
 
 * Squash multiple commits into a single commit.
 * Write a good [commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
@@ -18,9 +17,9 @@
 
 * Avoid including files in source control that are specific to your development machine or process.
 * Delete local and remote feature branches after merging.
-* Perform work ina feature branch.
+* Perform work in a feature branch.
 * Rebase frequently to incorporate upstream changes.
-* Use a pull request for code review.
+* Use a merge request for code review.
 
 ## Write a Feature
 
