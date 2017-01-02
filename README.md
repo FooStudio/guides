@@ -4,7 +4,7 @@ Foo()'s programming guide. DRY in style.
 * [Tooling](./tooling)
 * [Best Practices](./best-practices)
 * [Code Review](./code-review)
-* [Style](./style)
+* [Style Guide](./style-guide)
 * [How to](./how-to)
 * [Tech we use](./tech)
                                
