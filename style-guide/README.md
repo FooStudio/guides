@@ -25,7 +25,7 @@ Detailed, language/framework specific style guides:
 * Avoid inline comments.
 * Break long lines after 100 characters.
 * Delete trailing whitespace.
-* Don't` misspell.
+* Don't misspell.
 * Use an empty line between methods.
 * Use spaces around operators, except for unary operators, such as `!`. 
 * Use spaces after commas, after colons and semicolons, around `{` and before `}`.

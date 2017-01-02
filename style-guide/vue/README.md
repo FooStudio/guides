@@ -16,6 +16,10 @@
 
 ## Vuex
 
+* Keep modules with a clear [SoC] (https://en.wikipedia.org/wiki/Separation_of_concerns).
+* Keep modules count low, but have as many as needed.
+* Prefer calling webservices from modules.
+
 ## Ecosystem
 
 * Use [vue-router](https://github.com/vuejs/vue-router) as routing system.
